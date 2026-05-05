@@ -40,7 +40,6 @@ Thực thi file Python chính để hệ thống bắt đầu quá trình trích
 ```bash
 python lab19_pipeline.py
 ```
-*(Nếu bạn sử dụng môi trường Python cụ thể như trong Lab này, lệnh sẽ là: `D:\Python314\python.exe lab19_pipeline.py`)*
 
 ### Bước 4: Xem kết quả
 Sau khi script chạy hoàn tất, hệ thống sẽ tự động tạo ra 2 file output:
