@@ -1,0 +1,27 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+knowledge_graph.png
+benchmark_results.csv
+
+# ChromaDB storage
+chroma/
+chroma.sqlite3
+
+# Jupyter Notebook
+.ipynb_checkpoints
+GraphRAG and Knowledge Graphs.pdf
+LAB DAY 19.pdf
+LAB_DAY_19_TODO.md

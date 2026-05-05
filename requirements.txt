@@ -1,0 +1,11 @@
+networkx
+matplotlib
+pandas
+langchain
+langchain-openai
+chromadb
+sentence-transformers
+openai
+python-dotenv
+
+langchain-google-genai

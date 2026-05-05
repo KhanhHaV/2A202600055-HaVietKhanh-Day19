@@ -1,0 +1,15 @@
+OpenAI was founded in 2015 by Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman. The company is known for developing ChatGPT, a large language model, and GPT-4.
+Sam Altman is the current CEO of OpenAI. OpenAI is headquartered in San Francisco, California.
+Microsoft invested heavily in OpenAI, forming a strategic partnership to integrate AI into products like Bing and Office 365. Microsoft's CEO is Satya Nadella.
+Microsoft was founded in 1975 by Bill Gates and Paul Allen. The company developed the Windows operating system and Azure cloud services.
+Google was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University. Sundar Pichai is the CEO of Google and its parent company Alphabet.
+Google developed the search engine Google Search, the mobile operating system Android, and AI models like Gemini and LaMDA.
+Apple was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne. Tim Cook is the CEO of Apple, succeeding Steve Jobs.
+Apple is famous for its hardware products including the iPhone, iPad, Mac, and Apple Watch. Apple introduced Siri as its virtual assistant.
+Meta, formerly known as Facebook, was founded in 2004 by Mark Zuckerberg, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes.
+Mark Zuckerberg is the CEO of Meta. Meta developed social media platforms like Facebook, Instagram, and WhatsApp. Meta is also heavily invested in AI, creating the LLaMA open-source language models.
+Elon Musk founded SpaceX in 2002 and co-founded Tesla in 2003. He acquired Twitter, later renaming it to X, in 2022. He also started xAI to compete with OpenAI.
+Amazon was founded by Jeff Bezos in 1994. Andy Jassy is the current CEO of Amazon. Amazon Web Services (AWS) is a major cloud computing platform. Amazon developed the Alexa virtual assistant.
+DeepMind, an AI research laboratory, was founded in 2010 by Demis Hassabis, Shane Legg, and Mustafa Suleyman. It was acquired by Google in 2014. DeepMind is known for AlphaGo, which defeated a world champion Go player.
+Anthropic was founded in 2021 by former OpenAI members, including Dario Amodei and Daniela Amodei. Anthropic developed the Claude language model family.
+Nvidia was founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem. Jensen Huang is the CEO of Nvidia. Nvidia designs Graphics Processing Units (GPUs) essential for training AI models.
